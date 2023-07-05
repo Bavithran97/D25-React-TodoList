@@ -1,0 +1,28 @@
+input{
+    border-color: aqua;
+ }
+ button{
+     background-color: aqua;
+ }
+ .header {
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: aquamarine;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+ .section{
+     display: flex;
+     justify-content: space-between;
+ }
+ .input-button-container {
+     display: flex;
+     gap: 10px;
+   }
+   
+  
